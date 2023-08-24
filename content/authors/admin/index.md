@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Diego Jonathan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Estudante'
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 💻
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Em busca do meu primeiro emprego na area Tech.
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:diego.ssj1@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/DiegoJSG/
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/diego-jonathan-coder/
+  
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -58,16 +60,15 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Olá! bem vindo sou um profissional em transição de carreira do ramo de alimentos como preparador de massas em uma grande e importante indústria de alimentos par área da tecnologia.
+Atualmente fiz parte do Programa Desenvolve da Alura em parceria com o Grupo Boticário, dentro da Trilha Dados, onde descobri uma grande inspiração para a área de Data Science e me levou a profundar meu estudo na linguagem Python, SQL e começar enfim minha carreira de Cientista de Dados.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
