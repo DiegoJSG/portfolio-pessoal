@@ -68,7 +68,6 @@ social:
 #email: ""
 ---
 
-Olá! bem vindo sou um profissional em transição de carreira do ramo de alimentos como preparador de massas em uma grande e importante indústria de alimentos par área da tecnologia.
-Atualmente fiz parte do Programa Desenvolve da Alura em parceria com o Grupo Boticário, dentro da Trilha Dados, onde descobri uma grande inspiração para a área de Data Science e me levou a profundar meu estudo na linguagem Python, SQL e começar enfim minha carreira de Cientista de Dados.
+Bem vindo, sou um profissional em transição de carreira do ramo de alimentos como preparador de massas de uma grande e importante indústria de alimentos para a área da tecnologia.
+Atualmente fiz parte do Programa Desenvolve 2023 da Alura em parceria com o Grupo Boticário, e o Bootcamp Potência Tech powered by iFood ambos dentro da trilha de Dados, onde descobri uma grande inspiração para a área e me levou a conhecer e aprofundar meu estudo na linguagem Python, SQL, Business Intelligence, etc e começar enfim minha carreira em Data Science.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://cursos.alura.com.br/user/diego-ssj1/fullCertificate/2b4002700ac219906f9c4a8254643eca
+  - certificate_url: https://drive.google.com/file/d/1MV8RhaMK0zSMAldeiJZwlnLIncVmBX29/view?usp=sharing
     date_end: '2023-01-01'
     date_start: '2023-06-23'
     description: 'Certificado de Data Science'
@@ -39,7 +39,7 @@ item:
     organization_url: 
     title: Mentoria - Business Intelligence (Analista de BI)
     url: 
-  - certificate_url: 
+  - certificate_url: https://drive.google.com/file/d/1b8UGeqRfe02E5hbjM9UgPmi4dywhvsJW/view?usp=sharing
     date_end: '2012-01-21'
     date_start: '2015-12-01'
     description: 'Editar videos, Banners, fazer panfletos e propagandas, programas utilizados Photoshop, Indesign, CorelDraw, Ilustrator.'
@@ -47,7 +47,14 @@ item:
     organization_url: 
     title: 'Designer Gráfico - Profissionalizante'
     url: ''
-
+  - certificate_url: https://drive.google.com/file/d/1yAUttqeIx-hLPogU6oWKmehy0jo2b5z7/view?usp=sharing
+    date_end: '2020-01-21'
+    date_start: '2021-12-01'
+    description: 'Aprendizado sobre organização de documentos, agendamento, gerenciamento de e-mails e atendimento telefônico, utilizando alguns softwares como Microsoft Office (Word, Excel, PowerPoint) e ferramentas de gestão e tambem desenvolvimento de habilidades interpessoais, atendimento ao cliente e comunicação escrita e verbal eficaz.'
+    organization: FlexComp
+    organization_url: 
+    title: 'Auxiliar Administrativo'
+    url: ''
 design:
   columns: '1'
 ---

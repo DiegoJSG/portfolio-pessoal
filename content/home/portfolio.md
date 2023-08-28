@@ -29,11 +29,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Code
+    - name: Codigos
       tag: Cod
-    - name: Projects
+    - name: Projetos
       tag: PJC
-    - name: DashBoards
+    - name: Dashboards
       tag: Dash
 design:
   columns: '1'
