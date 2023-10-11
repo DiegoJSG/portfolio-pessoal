@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 01/2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://drive.google.com/file/d/1MV8RhaMK0zSMAldeiJZwlnLIncVmBX29/view?usp=sharing
-    date_end: '2023-01-01'
-    date_start: '2023-06-23'
+    date_end: '2023-06-28'
+    date_start: '2022-12-01'
     description: 'Certificado de Data Science'
     organization: Alura
     organization_url: https://www.alura.com.br/
@@ -38,21 +38,22 @@ item:
     organization: Mentoria 
     organization_url: 
     title: Mentoria - Business Intelligence (Analista de BI)
-    url: 
+    url:
+    certificate_title: Certificado
   - certificate_url: https://drive.google.com/file/d/1b8UGeqRfe02E5hbjM9UgPmi4dywhvsJW/view?usp=sharing
-    date_end: '2012-01-21'
-    date_start: '2015-12-01'
-    description: 'Editar videos, Banners, fazer panfletos e propagandas, programas utilizados Photoshop, Indesign, CorelDraw, Ilustrator.'
+    date_end: '2015-01-21'
+    date_start: '2012-08-01'
+    description: 'Aprendizado para edição de videos, banners, fazer panfletos e propagandas utilizando programas como Photoshop, Indesign, CorelDraw, Ilustrator, etc.'
     organization: FlexComp
     organization_url: 
     title: 'Designer Gráfico - Profissionalizante'
     url: ''
   - certificate_url: https://drive.google.com/file/d/1yAUttqeIx-hLPogU6oWKmehy0jo2b5z7/view?usp=sharing
-    date_end: '2020-01-21'
-    date_start: '2021-12-01'
+    date_end: '2021-01-21'
+    date_start: '2020-01-01'
     description: 'Aprendizado sobre organização de documentos, agendamento, gerenciamento de e-mails e atendimento telefônico, utilizando alguns softwares como Microsoft Office (Word, Excel, PowerPoint) e ferramentas de gestão e tambem desenvolvimento de habilidades interpessoais, atendimento ao cliente e comunicação escrita e verbal eficaz.'
-    organization: FlexComp
-    organization_url: 
+    organization: Unicesumar
+    organization_url: 'https://www.unicesumar.edu.br/home/'
     title: 'Auxiliar Administrativo'
     url: ''
 design:

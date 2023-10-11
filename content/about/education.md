@@ -7,14 +7,14 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: Experiências
+title: Formações
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 01/2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,72 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Preparador de Massas
-    company: Marilan S/A
-    company_url: 'https://www.marilan.com/'
+  - title: Bootcamp Ciência de Dados | Potência Tech powered by iFood
+    company: DIO
+    company_url: 'https://www.dio.me/'
     company_logo: 
-    location: Marilia - SP
-    date_start: '2015-01-19'
-    date_end: '2023-05-18'
-    description: 
-       •Preparação de massas de variadas linhas de produção
+    location: Vitória - ES (EAD)
+    date_start: '2023-06-01'
+    date_end: '2023-09-01'
+    description: Bootcamp onde trouxe os princípios assuntos de Ciência de Dados, utilizando Python, por meio de cursos, desafios de projeto e desafios de código. Além disso, exploramos temas fundamentais, como Modelagem de Dados, SQL e PostgreSQL e conceitos básicos de Machine Learn.
 
-
-       •Preparação de biscoitos
-       •Verificação do ponto, temperatura, viscosidade 
-
-
-       •Verificação da qualidade do biscoito de acordo com normas da ISO
-
-
-       •Preenchimento de relatórios 
-       •Dirigir Paleteira Elétrica
-
-
-       •Check list de Segurança da NR 11 na Paleteira Elétrica
-
-  - title: Repositor
-    company: Supermercados Preço Certo Center LTDA
-    company_url: 'http://www.precocerto.com/index.php'
+  - title: Data Science | Programa Desenvolve
+    company: Alura
+    company_url: 'https://www.alura.com.br/'
     company_logo: 
-    location: Marilia - SP
-    date_start: '2012-03-01'
-    date_end: '2014-10-31'
-    description: 
-       •Repositor de mercadorias de variados tipos
-       •Ajuda na checagem do estoque
+    location: Vila Mariana - SP (EAD)
+    date_start: '2022-12-01'
+    date_end: '2023-06-28'
+    description: Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura onde adquiri as seguintes formações, Engenharia de Software, Google Cloud Platform, Shell Scripting, SQL com PostgreSQL, Modelagem de dados, SQL com MySQL, Programação com Python e JavaScript, DevOps de Linux I e II. Conhecimento basico em Business Intelligence, Data Warehouse, Spark, Collab, ETL.
 
-
-       •Entrega de alimentos à domicílio 
-
-
-       •Auxiliar em outros setores, tais como 
-       açougue, pacote, descarga de materias, etc
-
-
-       •Higienização e organização itens e superfícies
-
-  - title: Customer Service Attendant - Aprendiz
-    company: Departamento de Água e Esgoto de Marília
-    company_url: 'https://www.daem.com.br/'
+  - title: Superior Tecnico em Processos Gerenciais 
+    company: Unicesumar
+    company_url: 'https://www.unicesumar.edu.br/home/'
     company_logo: 
-    location: Marilia - SP
-    date_start: '2010-06-01'
-    date_end: '2011-10-21'
-    description: 
-       •Auxiliar no almoxarifado 
-
-
-       •Atendimento ao cliente no telefone
-
-
-       •Repasse de atividades do dia-a-dia a companheiros de trabalho
-
-
-       •Auxílio na Solicitação e checagem de documentos
-
-
-       •Auxílio em programas com organização de planilhas e atividades
+    location: Marilia - SP (EAD)
+    date_start: '2020-01-01'
+    date_end: '2022-12-22'
+    description: Aprendi a analisar dados empresariais, tomar decisões estratégicas e implementar práticas eficazes de gerenciamento. O curso também aborda temas de liderança, planejamento e otimização de processos para atender às demandas do ambiente empresarial moderno.
 design:
   columns: '1'
 ---
