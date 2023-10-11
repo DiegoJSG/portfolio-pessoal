@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Vitória - ES (EAD)
     date_start: '2023-06-01'
-    date_end: '2023-09-01'
+    date_end: '2023-08-01'
     description: Bootcamp onde trouxe os princípios assuntos de Ciência de Dados, utilizando Python, por meio de cursos, desafios de projeto e desafios de código. Além disso, exploramos temas fundamentais, como Modelagem de Dados, SQL e PostgreSQL e conceitos básicos de Machine Learn.
 
   - title: Data Science | Programa Desenvolve

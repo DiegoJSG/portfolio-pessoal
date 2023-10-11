@@ -23,13 +23,20 @@ date_format: 01/2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://drive.google.com/file/d/1Ig2gMKiAhLTtrIBfOj_wtqypaiyxZb4P/view?usp=sharing
+    date_end: '2023-06-18'
+    date_start: '2023-08-01'
+    description: 'Bootcamp de Ciência de Dados em parceria com a Potência Tech e iFood'
+    organization: DIO
+    organization_url: https://www.dio.me/
+    title: Bootcamp de Ciência de Dados
   - certificate_url: https://drive.google.com/file/d/1MV8RhaMK0zSMAldeiJZwlnLIncVmBX29/view?usp=sharing
     date_end: '2023-06-28'
     date_start: '2022-12-01'
-    description: 'Certificado de Data Science'
+    description: 'Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura'
     organization: Alura
     organization_url: https://www.alura.com.br/
-    title: Projeto Desenvolve | Data Science
+    title: Projeto Desenvolve em Data Science
     url: ''
   - certificate_url: 
     date_end: '2023-06-03'
