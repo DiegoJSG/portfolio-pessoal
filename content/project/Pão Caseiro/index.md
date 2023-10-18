@@ -1,9 +1,9 @@
 ---
 title: Pão Caseiro
-summary: Projeto simples para brincar, vamos criar um pão caseiro juntos em python 😋
+summary: Projeto simples em python para brincar, vamos criar um pão caseiro juntos 😋
 tags:
-  - Cod
-  - PJC
+  - cod
+  - all
 date: 
 external_link: https://github.com/DiegoJSG/Pao_Caseiro.git
 ---

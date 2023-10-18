@@ -1,9 +1,9 @@
 ---
 title: Mentoria Dashboard
-summary: Montamos do zero esse dashboard de pedidos desde o mockup ate o final.
+summary: Dashboard de pedidos criado atravez de uma mentoria de BI, feito do zero desde a criação do mockup ate o dashboard ja finalizado.
 tags:
-  - PJC
-  - Dash
+  - all
+  - dash
 date: 
 external_link: https://public.tableau.com/app/profile/diego.guedes/viz/DashboarddePedidos-Mentoria/Dashboard-Pedidos
 ---

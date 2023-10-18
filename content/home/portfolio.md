@@ -28,13 +28,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: '*'
-    - name: Codigos
-      tag: Cod
-    - name: Projetos
-      tag: PJC
+      tag: all
+    - name: Python
+      tag: cod
+    - name: SQL
+      tag: sql
     - name: Dashboards
-      tag: Dash
+      tag: dash
 design:
   columns: '1'
   view: masonry
