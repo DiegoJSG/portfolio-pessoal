@@ -60,14 +60,14 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: 
+  - icon: cv
+    icon_pack: ai
+    link: static/files_CV_Diego-BR.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Bem vindo, sou um profissional em transição de carreira do ramo de alimentos como preparador de massas de uma grande indústria de alimentos para a área da tecnologia.
-Atualmente fiz parte do Programa Desenvolve 2023 da Alura em parceria com o Grupo Boticário, e tambem do Bootcamp Potência Tech powered by iFood ambos dentro da trilha de Dados, onde descobri uma grande inspiração para a área e me levou a conhecer e aprofundar meus estudos na linguagem Python, SQL, Business Intelligence, etc e assim dar o passo inicial na minha carreira em Data Science.
+Sou um profissional em transição de carreira do ramo de alimentos para o mundo da tecnologia, me formei em Data Sciece pelo Programa Desenvolve 2023 da Alura em parceria com o Grupo Boticário e também no bootcamp de Python e SQL patrocinado pelo iFood, ambos com foco na Trilha de Data Science.
+Nesse percurso, foi onde descobri uma paixão pela área Tech, foi como encontrar um novo sentido à minha carreira. Desde então, tenho me dedicado intensamente ao estudo de linguagem Python, SQL, BI, entre outras mostrando oque aprendi com projetos pessoais e desafios feitos durante os programas. E assim espero ter a oportunidade de iniciar minha carreira na área Tech.
 
