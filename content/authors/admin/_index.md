@@ -6,7 +6,7 @@ title: Diego Jonathan
 superuser: true
 
 # Role/position
-role: 
+# role: ''
 
 # Status emoji
 status: 
