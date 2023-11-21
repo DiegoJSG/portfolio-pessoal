@@ -6,7 +6,7 @@ title: Diego Jonathan
 superuser: true
 
 # Role/position
-role: 'Estudante'
+role: 
 
 # Status emoji
 status: 
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/files_CV_Diego-BR.pdf
+    link: 'static/files/_CV_Diego-BR.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
