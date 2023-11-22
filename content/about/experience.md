@@ -23,28 +23,14 @@ date_format: 01/2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Preparador de Massas
-    company: Marilan S/A
+    company: Marilan Alimentos S/A
     company_url: 'https://www.marilan.com/'
     company_logo: 
     location: Marilia - SP
     date_start: '2015-01-19'
     date_end: '2023-05-18'
     description: 
-       •Preparação de massas de variadas linhas de produção
-
-
-       •Preparação de biscoitos
-       •Verificação do ponto, temperatura, viscosidade 
-
-
-       •Verificação da qualidade do biscoito de acordo com normas da ISO
-
-
-       •Preenchimento de relatórios 
-       •Dirigir Paleteira Elétrica
-
-
-       •Check list de Segurança da NR 11 na Paleteira Elétrica
+      • Trabalhei na elaboração de massas de várias linhas de produção, Comprovação pontual, temperatura, viscosidade, Controle de qualidade de massas de acordo com as normas ISO, Preencher relatórios,Transpaleteira elétrica de condução / Lista de verificação de segurança NR 11.
 
   - title: Repositor
     company: Supermercados Preço Certo Center LTDA
@@ -54,19 +40,7 @@ experience:
     date_start: '2012-03-01'
     date_end: '2014-10-31'
     description: 
-       •Repositor de mercadorias de variados tipos
-       •Ajuda na checagem do estoque
-
-
-       •Entrega de alimentos à domicílio 
-
-
-       •Auxiliar em outros setores, tais como 
-       açougue, pacote, descarga de materias, etc
-
-
-       •Higienização e organização itens e superfícies
-
+      • Como repositor de mercadorias fazia variados tipos de ajudas na checagem do estoque, em entrega de alimentos à domicílio, e tambem auxiliava em outros setores, tais como açougue, empacotamento, descarga de materias, etc.
   - title: Customer Service Attendant - Aprendiz
     company: Departamento de Água e Esgoto de Marília
     company_url: 'https://www.daem.com.br/'
@@ -75,19 +49,7 @@ experience:
     date_start: '2010-06-01'
     date_end: '2011-10-21'
     description: 
-       •Auxiliar no almoxarifado 
-
-
-       •Atendimento ao cliente no telefone
-
-
-       •Repasse de atividades do dia-a-dia a companheiros de trabalho
-
-
-       •Auxílio na Solicitação e checagem de documentos
-
-
-       •Auxílio em programas com organização de planilhas e atividades
+      • Como Menor Aprendiz fazia atendimento ao cliente por telefone, Transferência de atividades do dia-a-dia para colegas de trabalho, Auxílio na solicitação e conferência de documentos, Auxílio com organização de planilhas e atividades do dia a dia.
 design:
   columns: '1'
 ---

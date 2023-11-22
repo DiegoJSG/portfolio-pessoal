@@ -29,7 +29,7 @@ experience:
     location: Vitória - ES (EAD)
     date_start: '2023-06-01'
     date_end: '2023-08-01'
-    description: Bootcamp onde trouxe os princípios assuntos de Ciência de Dados, utilizando Python, por meio de cursos, desafios de projeto e desafios de código. Além disso, exploramos temas fundamentais, como Modelagem de Dados, SQL e PostgreSQL e conceitos básicos de Machine Learn.
+    description: • Bootcamp onde trouxe os princípios assuntos de Ciência de Dados, utilizando Python, por meio de cursos, desafios de projeto e desafios de código. Além disso, exploramos temas fundamentais, como Modelagem de Dados, SQL e PostgreSQL e conceitos básicos de Machine Learn.
 
   - title: Data Science | Programa Desenvolve
     company: Alura
@@ -38,7 +38,7 @@ experience:
     location: Vila Mariana - SP (EAD)
     date_start: '2022-12-01'
     date_end: '2023-06-28'
-    description: Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura onde adquiri as seguintes formações, Engenharia de Software, Google Cloud Platform, Shell Scripting, SQL com PostgreSQL, Modelagem de dados, SQL com MySQL, Programação com Python e JavaScript, DevOps de Linux I e II. Conhecimento basico em Business Intelligence, Data Warehouse, Spark, Collab, ETL.
+    description: • Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura onde adquiri as seguintes formações, Engenharia de Software, Google Cloud Platform, Shell Scripting, SQL com PostgreSQL, Modelagem de dados, SQL com MySQL, Programação com Python e JavaScript, DevOps de Linux I e II. Conhecimento basico em Business Intelligence, Data Warehouse, Spark, Collab, ETL.
 
   - title: Superior Tecnico em Processos Gerenciais 
     company: Unicesumar
@@ -47,7 +47,7 @@ experience:
     location: Marilia - SP (EAD)
     date_start: '2020-01-01'
     date_end: '2022-12-22'
-    description: Aprendi a analisar dados empresariais, tomar decisões estratégicas e implementar práticas eficazes de gerenciamento. O curso também aborda temas de liderança, planejamento e otimização de processos para atender às demandas do ambiente empresarial moderno.
+    description: • Aprendi a analisar dados empresariais, tomar decisões estratégicas e implementar práticas eficazes de gerenciamento. O curso também aborda temas de liderança, planejamento e otimização de processos para atender às demandas do ambiente empresarial moderno.
 design:
   columns: '1'
 ---
