@@ -57,7 +57,7 @@ experience:
     location: Marilia - SP 
     date_start: '2012-08-01'
     date_end: '2015-01-22'
-    description: '- Estudava edição e tratamento de vídeos e imagens, Banners, para fazer panfletos e propagandas.
+    description: '> Estudava edição e tratamento de vídeos e imagens, Banners, para fazer panfletos e propagandas.
     Tambem utilizava os programas mais acessíveis e atuais como Photoshop, Indesign, CorelDraw, Ilustrator entre outros.'
     
 design:
