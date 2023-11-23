@@ -27,14 +27,14 @@ item:
   - certificate_url: https://drive.google.com/file/d/1Ig2gMKiAhLTtrIBfOj_wtqypaiyxZb4P/view?usp=sharing
     date_end: '2023-08-18'
     date_start: '2023-06-01'
-    description: '• Bootcamp de Ciência de Dados em parceria com a Potência Tech e iFood'
+    description: '>> Bootcamp de Ciência de Dados em parceria com a Potência Tech e iFood'
     organization: DIO
     organization_url: https://www.dio.me/
     title: Bootcamp de Ciência de Dados
   - certificate_url: https://drive.google.com/file/d/1MV8RhaMK0zSMAldeiJZwlnLIncVmBX29/view?usp=sharing
     date_end: '2023-06-28'
     date_start: '2022-12-01'
-    description: '• Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura'
+    description: '>> Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura na trilha de Dados.'
     organization: Alura
     organization_url: https://www.alura.com.br/
     title: Projeto Desenvolve em Data Science
@@ -42,7 +42,7 @@ item:
   - certificate_url: 
     date_end: '2023-06-03'
     date_start: '2023-05-01'
-    description: • Mentoria Especializada em criação de Dashboards, tipos de Dados e uso do SQL e criação de Portfolio utilizando o Tableau e Figma feita pela Mentora Giuliana de Jong do Grupo Boticário.
+    description: '>> Mentoria Especializada em criação de Dashboards, tipos de Dados e uso do SQL e criação de Portfolio utilizando o Tableau e Figma feita pela Mentora Giuliana Jong do Grupo Boticário.'
     organization: Mentoria 
     organization_url: 
     title: Mentoria - Business Intelligence (Analista de BI)
@@ -51,7 +51,7 @@ item:
   - certificate_url: https://drive.google.com/file/d/1b8UGeqRfe02E5hbjM9UgPmi4dywhvsJW/view?usp=sharing
     date_end: '2015-01-21'
     date_start: '2012-08-01'
-    description: '• Aprendizado para edição de videos, banners, fazer panfletos e propagandas utilizando programas como Photoshop, Indesign, CorelDraw, Ilustrator, etc.'
+    description: '>> Certificado de edição e tratamento de vídeos e imagens, Banners, para fazer panfletos e propagandas.'
     organization: FlexComp
     organization_url: 
     title: 'Designer Gráfico - Profissionalizante'
@@ -59,7 +59,8 @@ item:
   - certificate_url: https://drive.google.com/file/d/1yAUttqeIx-hLPogU6oWKmehy0jo2b5z7/view?usp=sharing
     date_end: '2021-01-21'
     date_start: '2020-01-01'
-    description: '• Aprendizado sobre organização de documentos, agendamento, gerenciamento de e-mails e atendimento telefônico, utilizando alguns softwares como Microsoft Office (Word, Excel, PowerPoint) e ferramentas de gestão e tambem desenvolvimento de habilidades interpessoais, atendimento ao cliente e comunicação escrita e verbal eficaz.'
+    description: '>> Certificado de aprendizagem de analize de dados empresariais, tomar decisões estratégicas e implementar práticas eficazes de gerenciamento.
+     O curso também aborda temas de liderança, planejamento e otimização de processos para atender às demandas do ambiente empresarial moderno.'
     organization: Unicesumar
     organization_url: 'https://www.unicesumar.edu.br/home/'
     title: 'Auxiliar Administrativo'

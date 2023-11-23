@@ -29,8 +29,8 @@ experience:
     location: Vitória - ES (EAD)
     date_start: '2023-06-01'
     date_end: '2023-08-01'
-    description: • Bootcamp onde trouxe os princípios assuntos de Ciência de Dados, utilizando Python, por meio de cursos, desafios de projeto e desafios de código. Além disso, exploramos temas fundamentais, como Modelagem de Dados, SQL e PostgreSQL e conceitos básicos de Machine Learn.
-
+    description: '> Bootcamp onde tive mais especialização na área de Data Science utilizando ainda mais a linguagem de Python, por meio de desafios de código e projetos.
+    Além disso, explorei ainda mais temas fundamentais da modelagem de dados, análise de dados, SQL e PostgreSQL e conceitos básicos de Machine Learning.'
   - title: Data Science | Programa Desenvolve
     company: Alura
     company_url: 'https://www.alura.com.br/'
@@ -38,7 +38,7 @@ experience:
     location: Vila Mariana - SP (EAD)
     date_start: '2022-12-01'
     date_end: '2023-06-28'
-    description: • Programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura onde adquiri as seguintes formações, Engenharia de Software, Google Cloud Platform, Shell Scripting, SQL com PostgreSQL, Modelagem de dados, SQL com MySQL, Programação com Python e JavaScript, DevOps de Linux I e II. Conhecimento basico em Business Intelligence, Data Warehouse, Spark, Collab, ETL.
+    description: '> Participei do programa Desenvolve 2023 feito pelo Grupo Boticário em parceria com a Alura onde me formei em Data Science e adquiri algumas formações como Engenharia de Software, Google Cloud Platform, Shell Scripting, SQL com PostgreSQL, Modelagem de dados, SQL com MySQL, Programação com Python e JavaScript, DevOps de Linux I e II. Conhecimento basico em Business Intelligence, Data Warehouse, Spark, Collab, ETL entre outros na área de Data Science. E assim podendo fazer projetos pessoais e desafios da area em diferentes tipos de situações.'
 
   - title: Superior Tecnico em Processos Gerenciais 
     company: Unicesumar
@@ -47,7 +47,19 @@ experience:
     location: Marilia - SP (EAD)
     date_start: '2020-01-01'
     date_end: '2022-12-22'
-    description: • Aprendi a analisar dados empresariais, tomar decisões estratégicas e implementar práticas eficazes de gerenciamento. O curso também aborda temas de liderança, planejamento e otimização de processos para atender às demandas do ambiente empresarial moderno.
+    description: '> Estudei Módulos de como garantir suporte administrativo e operacional às demais áreas da empresa, como por exemplo a organização de arquivos, envio de documentos, gestão de planilhas, etc.
+
+    > Utilizando alguns softwares como Microsoft Office (Word, Excel, PowerPoint) e ferramentas de gestão e tambem desenvolvimento de habilidades interpessoais, atendimento ao cliente e comunicação escrita e verbal eficaz.'
+  - title: Designer Grafico 
+    company: FlexComp
+    company_url: 
+    company_logo: 
+    location: Marilia - SP 
+    date_start: '2012-08-01'
+    date_end: '2015-01-22'
+    description: '- Estudava edição e tratamento de vídeos e imagens, Banners, para fazer panfletos e propagandas.
+    Tambem utilizava os programas mais acessíveis e atuais como Photoshop, Indesign, CorelDraw, Ilustrator entre outros.'
+    
 design:
   columns: '1'
 ---
