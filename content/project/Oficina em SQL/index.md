@@ -1,6 +1,6 @@
 ---
 title: Banco de dados de uma Oficina em SQL
-summary: Projetos / Desafio de criação de um banco de dados ficticio.
+summary: Projetos / Desafio de criação de um banco de dados ficticio para uma oficina.
 tags:
   - sql
   - all

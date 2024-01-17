@@ -1,5 +1,5 @@
 ---
-title: Pão Caseiro
+title: Pão Caseiro em Python
 summary: Projeto simples em python para brincar, vamos criar um pão caseiro juntos 😋
 tags:
   - cod
