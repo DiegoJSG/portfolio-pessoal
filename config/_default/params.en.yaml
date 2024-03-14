@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  mode: Dark
-  color: gray
+  mode: light
+  color: red
   #theme_day: Cyberpunk
-  #theme_night: Cyberpunk
+  #theme_night: red
   font: Minimal
   font_size: L
   

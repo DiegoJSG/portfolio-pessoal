@@ -23,4 +23,4 @@ Hey! Welcome, my name is **Diego**, and I'm currently looking for my first job i
 
 Check out some personal projects I carried out below with their respective hyperlinks or also [Click Here](/about/) to see my full CV✌
 
-<span style="font-size: 0.8rem;">If necessary, click on</span> <span style="font-size: 1.2rem; color: rgb(255, 255, 255);color: rgb(0 , 0, 100);">&#127760;</span> <span style="font-size: 0.8rem;">in the top right corner of the page to switch to the desired language.</span>
+<span style="font-size: 0.8rem;">Caso necessite clique no</span> <span style="font-size: 1.2rem; color: rgb(255, 255, 255);color: rgb(0, 0, 100);">&#127760;</span> <span style="font-size: 0.8rem;">no canto superior direito da página para mudar para a língua desejada.</span>
