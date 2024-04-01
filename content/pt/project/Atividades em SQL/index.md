@@ -1,9 +1,9 @@
 ---
 title: Atividades em SQL 
-summary: Atividades variaveis em SQL como forma de desafios para fixar o aprendizado.
+summary: Atividades em SQL de como criar tabelas, schemas, uso do join, group by e order by, do uso do select e formas de contagem tudo isso como forma de desafios para fixar o aprendizado.
 tags:
   - sql
   - all
 date:
-external_link: https://github.com/DiegoJSG/Banco_de_dados_de_uma_Oficina_em_SQL.git
+external_link: https://github.com/DiegoJSG/SQL_Atividades.git
 ---
